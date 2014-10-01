@@ -26,6 +26,5 @@ public class Kalkulator {
     	return a / b;
     }
     
-
 }
 
