@@ -33,6 +33,16 @@ public class Kalkulator {
         }
         return result;
     }
+
+    public int multiplyArray(int[] source) {
+        int result = 0;
+        int i = 0;
+        while ( i < source.length ) {
+        	result *= source[i];
+        	i++;
+        }
+        return result;
+    }   
     
 }
 
