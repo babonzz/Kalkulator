@@ -1,7 +1,7 @@
 /*
  * Kalkulator yang dapat menghitung tambah, kurang, kali dan bagi
  * Kalkulator juga bisa mengitung pangkat
- *
+ *tes
  * @author ITP
  */
 public class Kalkulator {
