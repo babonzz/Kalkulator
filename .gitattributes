@@ -5,3 +5,4 @@ nbproject/project.properties filter=lfs diff=lfs merge=lfs -text
 nbproject/project.xml filter=lfs diff=lfs merge=lfs -text
 nbproject/ filter=lfs diff=lfs merge=lfs -text
 manifest.mf filter=lfs diff=lfs merge=lfs -text
+POS.png filter=lfs diff=lfs merge=lfs -text
