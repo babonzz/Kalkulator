@@ -1,2 +1,5 @@
 
-nbproject/ filter=lfs diff=lfs merge=lfs -text
+nbproject/build-impl.xml filter=lfs diff=lfs merge=lfs -text
+nbproject/genfiles.properties filter=lfs diff=lfs merge=lfs -text
+nbproject/project.properties filter=lfs diff=lfs merge=lfs -text
+nbproject/project.xml filter=lfs diff=lfs merge=lfs -text
